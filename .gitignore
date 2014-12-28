@@ -6,7 +6,6 @@ opencv2/*
 *.dll
 *.h
 *.hpp
-*.class
 *.html
 bin/
 .settings/
